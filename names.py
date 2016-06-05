@@ -15,4 +15,9 @@ names = [a.text for a in soup.select('.product-info a')]
 names = [n.lower().replace(u'’', "'") for n in names]
 
 for name in names:
-    print ' '.join(filter(lambda w: 'dress' not in w, name.split()))
+    words = name.split()
+    words = filter(lambda w: 'dress' not in w, words)
+    while len(words) > 2 and words[-2] == 'in':
+        words = words[:-2]
+
+    print ' '.join(words)

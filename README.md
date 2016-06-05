@@ -2,3 +2,261 @@ ModCloth dresses without the word "dress"
 =========================================
 
 [ModCloth sells dresses](http://www.modcloth.com/shop/dresses). Their names are funnier without the word "dress" in them. I wrote a script to download the list of dresses and remove the word "dress".
+
+Here is a sample:
+
+- swanky scenario
+- hotline spring
+- i lily must go
+- friends in bungalow places
+- have the lax say
+- the story of citrus in cool blooms
+- an office you can't refuse
+- blithe for life
+- anyone and every-fun
+- coming and flowing
+- she and trim
+- abiding beauty
+- supreme self-confidence
+- you've got a friend
+- wade and sea
+- keen about keyholes
+- opulent event
+- breezy and beautiful
+- flit for a queen
+- reverie moment with you
+- the way you sashay
+- pull up a cherry
+- keen about keyholes
+- nouveau novelist
+- breeze expertise
+- luck be a lady in black and red
+- instrumental afternoon
+- so two ways about it
+- lawn time coming
+- left flaunting
+- i'm shore of it!
+- muse your powers for good
+- being is believing
+- abiding beauty
+- rhapsody
+- my luxe-y day
+- been an oolong time
+- classic movie marathon
+- windy city in paprika bouquet
+- crochet, girl, hey!
+- live free and dip dye
+- taking on town square
+- myth universe
+- east beach engagement
+- applause on arrival
+- vivid the dream
+- dublin feature
+- flatters all expectations
+- now for our leader presentation
+- all show and tango
+- lively in the moment
+- vacation the premises
+- one moment, pleats
+- flirty friday
+- too much fun in dotted stripes
+- rays your grand
+- too much fun in sketched palms
+- x-pect great things
+- coming picnic and fast
+- maine attraction
+- afternoon outing
+- lady of the luau
+- poppy the question
+- teaching classy
+- career fair charmer
+- enchanting romantic in ivory floral
+- every vow and again
+- posh and circumstance
+- lanai must be dreaming
+- start spreading the mews
+- woods to the wise
+- delightful anecdotes
+- ketch my drift?
+- capelet it go
+- when i groove, you groove
+- teaching classy in blossom shadows
+- take to the wind
+- efflorescent oasis
+- star-spangled banter
+- lyrically idyllic
+- plan for glamour
+- sundown for anything
+- ethereal love
+- book fair and square
+- perk hard, play hard
+- smitten with you
+- soda fountain
+- twenty-fleur seven
+- cookout to perfection
+- highs and flows
+- miracle maxi in black and beige
+- miss indie-pendent
+- stylish serendipity
+- is it too late to say soiree?
+- all i do is whimsical
+- long-term loveliness
+- don't spin it all in one place
+- trolley tour
+- grin from ear to engineer
+- whimsy and be seen
+- a day of dance
+- swiftly sentimental
+- unfalteringly feminine
+- splendid entrance
+- game of glam in robin's egg
+- clambake my day
+- the fun has just begun
+- lady love song
+- my fun true love
+- chill components
+- lawn night ahead
+- sparkling celebration
+- step in the right perfection
+- there she floats again
+- starlet's web
+- the fables have turned
+- party setup squad
+- park bench poetry
+- all inspiring
+- littoral interpretation
+- aglow with gusto
+- exalted executive
+- set the record date
+- the grace outdoors
+- i rest my grace
+- enthrall them all
+- terrace for two
+- topiary tour
+- cross-stitch my heart
+- opulent opening
+- overseas ease
+- agile employee
+- attentive art collector
+- got something to soothe
+- dulcet to go
+- highly motif-ated
+- tapioca dokey in misted garden
+- where my picnic people?
+- rays gone by
+- coach tour
+- daily, sweetly, monthly
+- b&b delightful
+- call the pontoon
+- chic seminar
+- through the bluebells in navy paisley
+- dauntless debut
+- bridesmaid proposal
+- dignified depth
+- all for nostalgia
+- calavera era
+- past presence
+- here's to glamorous
+- radiate with destiny
+- coach tour
+- completely charmed
+- a love above the rest
+- to boldly flow
+- copacetic aesthetic
+- quaint the town
+- knit to be dyed
+- on any vivid moment
+- sprightly scallops
+- lace ventura
+- light seas, cool breeze
+- here to savor the day
+- woman dapper my own heart
+- luck be a lady in cobalt and lace
+- chalet vacay
+- flow all out
+- twist of elate
+- every mingle time
+- lantern-lit dinner
+- keep your grin up
+- glow resolution
+- i rest my grace in garden glamour
+- new york city twirl
+- i swish you the best
+- understated statement
+- those who wade
+- worth every peony
+- celebratory cordials
+- sun-soaked afternoon
+- understated statement
+- bucolic beauty
+- charm consultant
+- lighthouse party hostess
+- luck be a lady
+- conservatory of my life
+- backyard blast
+- it's an inspired taste
+- peppy, set, go!
+- that's aflutter thing
+- to and frozen
+- understated statement
+- web design devotee
+- pinot and oil paints
+- living in the pleasant tense
+- stem career
+- some gals have all the luxe
+- whisker words of wisdom
+- vacation vixen
+- martini, fly and with a twist
+- ramen rendezvous
+- out of this twirl
+- a lively story
+- apres la soiree
+- mix business and leisure
+- beauteous beach comber
+- decadence with me
+- cut, copy, cocktails
+- toast to the coast
+- fleurs truly
+- sunbaked satisfaction
+- pleats be ready
+- poolside setlist
+- soda fountain
+- haute culture
+- awe or nothing
+- in charm's way
+- balcony to beachfront
+- a road well traveled
+- flits close to home
+- sunset silhouettes
+- fleurs truly
+- fresh influence
+- for yesteryears to come
+- band
+- so happy to gather
+- she and trim
+- beach poise
+- greenhouse grandeur
+- hugs and quiches
+- equatorial dynamo
+- recital rehearsal
+- self-portrait of an artist
+- verves of encouragement
+- stun before you walk
+- who's the terrace of them all?
+- let it roller skate
+- by guest and by gosh
+- bubbly brio
+- of luster and light
+- i know i can
+- alfresco opera
+- casual decorum in navy stripes
+- daring dinner plans
+- altogether entrancing
+- relished repose
+- bright for your right
+- sweet creme de mint
+- city hall couture
+- festive frondescence
+- deliberately delightful
+
+Enjoy!
