@@ -259,4 +259,19 @@ Here is a sample:
 - festive frondescence
 - deliberately delightful
 
-Enjoy!
+Running this
+------------
+
+```sh
+# clone and cd into this directory
+
+# if you'd like to use virtualenv:
+virtualenv env
+source env/bin/activate
+
+# install dependencies
+pip install -r requirements.txt
+
+# run the thing!
+python names.py > dress_names.txt
+```
